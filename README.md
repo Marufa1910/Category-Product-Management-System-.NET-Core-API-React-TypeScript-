@@ -38,7 +38,7 @@ Since dependencies (`node_modules`) are excluded from this repository, you must 
 
 1. Open your terminal and navigate to the frontend directory:
    ```bash
-   cd ProductCategoryManagementWithReact
+   cd product-client
 2. npm install
 3. code .
 4. After Open, Go to new Terminal and Write npm run dev
